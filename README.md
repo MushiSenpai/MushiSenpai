@@ -1,5 +1,7 @@
 # Hi, I'm Mushi 👋
 
+🌐 **[theinvalid.me](https://theinvalid.me)** — portfolio, resume, and the failure log (new post weekly).
+
 **AI infrastructure engineer — I spec, direct LLMs, and verify.** I build and operate sovereign, self-hosted AI systems: the planning, architecture, debugging direction, and operations are mine; the code is written by LLMs under my direction. B.E. in Computer Science. **Open to freelance and full-time work.**
 
 ## What I've built (and operate daily)
