@@ -15,6 +15,14 @@ Local video production: FLUX.2 / Wan 2.2 / HunyuanVideo generation, VOID object 
 ### 🎙️ [mushishi-audio-stack](https://github.com/MushiSenpai/mushishi-audio-stack)
 Fully local voice cloning, TTS, lip-sync avatars (3 quality tiers), music generation, and auto-dubbing — job-queue architecture, all MIT/Apache-2.0 models, 25+ documented install lessons.
 
+## What the infrastructure produces
+
+### 📖 [comic-manga-narrator](https://github.com/MushiSenpai/comic-manga-narrator)
+A comic page goes in; a dramatized video comes out — panel detection, cloned character voices acting the dialogue, narrator on captions, Ken Burns + 2.5D parallax camera. Built entirely on the three stacks above: the proof the infrastructure ships products.
+
+### 🍃 [komorebi](https://github.com/MushiSenpai/komorebi)
+A Studio Ghibli-inspired productivity suite in Flutter — tasks, kanban, calendar, notes, pomodoro, and a physics tower-stacking break game with online leaderboards. Local-first SQLite; spec-driven with a documented upgrade path per feature.
+
 ## How I work
 
 ```
